@@ -1,3 +1,6 @@
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2505f988-0f9f-44e4-a229-7cf33cde8127/deploy-status)](https://app.netlify.com/sites/react-concepts-revision/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
